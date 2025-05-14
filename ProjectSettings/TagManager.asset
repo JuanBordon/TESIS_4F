@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - PuntoFinal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - fondo
+  - Water
+  - UI
+  - Piso
+  - Jugador
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 
+    uniqueID: 3121624963
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 3604621763
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 1778822249
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 1682321143
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 2638107583
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 3667335977
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 4075223447
+    locked: 0
+  m_RenderingLayers:
+  - Default
